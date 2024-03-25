@@ -1,6 +1,4 @@
-# Module 3 - Sprint 1 Supervised Machine Learning Fundamentals 
-
-This project is a part of the Turing College Data Science learning programme at (https://www.turingcollege.com/data-science). Projects outline can be found at the [main GitHub repo](https://github.com/TuringCollegeSubmissions/vbeino-ML.1.5.git).
+# Travel Insurance prediction model
 
 #### -- Project Status: [Active]
 
@@ -40,5 +38,5 @@ Random Forest, KNN and Radial-SVM algorithms were further optimized with hyperpa
 
 ## Author 
 
-**Lead : [Vytautas Beinoravicius ]**
+**Lead : [Vytas Bein ]**
 
